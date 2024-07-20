@@ -10,6 +10,7 @@ MENTOR: NEELA SANTHOSH KUMAR**
 
 
 **Project Overview: BMI Tracker App**
+
 **Objective**
 **The BMI Tracker App aims to provide users with a simple, intuitive, and efficient way to calculate and track their Body Mass Index (BMI). The primary objectives of the app are to:**
 **1. Help users maintain a healthy lifestyle by monitoring their BMI.
